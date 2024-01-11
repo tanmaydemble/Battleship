@@ -1,9 +1,36 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/tqZ-4RLU)
-# 3500 PA04 - BattleSalvo - Part 2 Project Repo
+# Battleship Game Instructions
 
-[PA04 Write-Up](https://markefontenot.notion.site/PA-04-BattleSalvo-Part-2-20ff66267da84956b35794bf8452c2fd)
+Welcome to our Battleship Game, a classic naval combat challenge with a twist. Engage in a strategic battle against a computer opponent and test your skills in this timeless game of wits!
 
-This template includes several additional tools:
-1. Gradle Build Automation
-1. JaCoCo for Test Coverage
-1. CheckStyle for Code Style Checks (Using the custom [cs3500 check file](./config/checkstyle/cs3500-checkstyle.xml)) 
+## Getting Started
+
+- **Download**: Ready for a naval duel? Download the JAR file from our repo to start your adventure.
+
+## Setting Up the Game
+
+1. **Select Board Dimensions**: Begin by choosing the height and width of your game board. This determines the size of your naval battleground.
+2. **Automatic Ship Placement**: Once the board size is selected, the ships are automatically placed for both you and the computer opponent. Each game will have a unique setup, adding an element of unpredictability.
+
+## How to Play
+
+- **Objective**: The aim is to sink all of the computer opponent's ships before they can sink yours.
+- **Gameplay**: Take turns with the computer in calling out grid coordinates to target and fire upon the enemy fleet.
+- **Hit or Miss**: After a coordinate is called, the game will indicate whether it's a 'hit' or 'miss' on the respective player's board.
+- **Sinking Ships**: Keep track of your hits and try to sink the computer opponent's ships before they sink yours.
+- **Victory**: The game ends when all the ships of one player are sunk. Sink the computer's fleet first to win!
+
+## Game Features
+
+- **Customizable Board Size**: Choose different board dimensions to vary the scale of each battle.
+- **Automated Ship Placement**: Enjoy a different strategic layout each time you play, as ships are automatically placed on the board.
+- **Challenging Computer Opponent**: Test your deduction and strategy against a computer opponent designed to offer a challenging battle.
+
+## Tips
+
+- Use a combination of random guessing and strategic targeting to find and sink the computer's ships.
+- Keep track of your hits and misses to inform your future guesses.
+- Pay attention to patterns and use logical deduction to pinpoint the locations of the remaining ships.
+
+Embark on your naval command and outsmart the computer in our Battleship game. May the best strategist win!
+
+---
